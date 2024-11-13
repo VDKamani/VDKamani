@@ -8,9 +8,6 @@
 ### 🌱 **Learning Focus**: 
 Cloud technologies, DevOps best practices, and automation tools.
 
-### 📝 **Content Creator**: 
-Sharing insights and tutorials about the latest in **DevOps** and **Cloud** technologies.
-
 ### 💬 **Topics of Interest**:
 - **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud, DigitalOcean
 - **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform
@@ -19,7 +16,7 @@ Sharing insights and tutorials about the latest in **DevOps** and **Cloud** tech
 - **Technologies**: PHP, WordPress
 - **Operating Systems**: Linux (Ubuntu, Amazon Linux)
 
-## 🌟 Let's Connect!
+### 🌟 Let's Connect!
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/viral-kamani-739405226/)
 
 ---
@@ -60,5 +57,5 @@ Sharing insights and tutorials about the latest in **DevOps** and **Cloud** tech
 
 ---
 
-**Viral Kamani**  
-*Let's build and innovate together!*
+### **Viral Kamani**  
+### *Let's build and innovate together!*
