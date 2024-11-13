@@ -2,7 +2,10 @@
 **🌐 A DevOps Trainee & Cloud Enthusiast**
 
 ---
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+---
 ### 💼 **Current Role**: DevOps Trainee at **Yudiz Solutions**, India
 
 ### 🌱 **Learning Focus**: 
@@ -45,7 +48,6 @@ Cloud technologies, DevOps best practices, and automation tools.
   <img src="https://github-readme-stats.vercel.app/api?username=VDKamani&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDKamani&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDKamani&theme=radical" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
