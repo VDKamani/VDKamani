@@ -2,10 +2,13 @@
 **🌐 A DevOps Trainee & Cloud Enthusiast**
 
 ---
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
+
 ---
+
 ### 💼 **Current Role**: DevOps Trainee at **Yudiz Solutions**, India
 
 ### 🌱 **Learning Focus**: 
