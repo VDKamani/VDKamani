@@ -4,7 +4,7 @@
 ---
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=blackwhite" alt="Profile Views" />
 </p>
 
 ---
