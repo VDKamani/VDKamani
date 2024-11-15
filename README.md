@@ -23,8 +23,17 @@ Cloud technologies, DevOps best practices, and automation tools.
 - **Operating Systems**: Linux (Ubuntu, Amazon Linux)
 
 ### 🌟 Let's Connect!
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/viral-kamani-739405226/)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-kamani-739405226/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/ViralKamani" target="_blank">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/viralkamani9" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 ---
 
 ## ⚙️ Technologies & Tools:
