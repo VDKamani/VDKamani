@@ -68,7 +68,7 @@ Cloud technologies, DevOps best practices, and automation tools.
 ---
 
 ### 🚀 Quick Links:
-- **Projects & Repos**: [Explore my work](https://github.com/VDKamani)
+- **Projects & Repos**: [Explore my work](https://github.com/VDKamani?tab=repositories)
 - **Tech Discussions**: Always open for knowledge sharing on cloud, DevOps, and automation.
 
 ⚡ **Fun Fact**: I believe continuous learning is the key to mastering the ever-evolving tech landscape.
