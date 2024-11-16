@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Viral Kamani!
+# 👋 Hi, I'm Viral D. Kamani!
 **🌐 A DevOps Trainee & Cloud Enthusiast**
 
 ---
@@ -76,4 +76,4 @@ Cloud technologies, DevOps best practices, and automation tools.
 ---
 
 ### **Viral Kamani**  
-### *Let's build and innovate together!*
+### **Let's build and innovate together!**
