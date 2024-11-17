@@ -75,5 +75,5 @@ Cloud technologies, DevOps best practices, and automation tools.
 
 ---
 
-### **Viral Kamani**  
+### **Viral D. Kamani**  
 ### **Let's build and innovate together!**
