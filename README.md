@@ -67,6 +67,11 @@ Cloud technologies, DevOps best practices, and automation tools.
 
 ---
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=VDKamani&theme=radical)
+
+---
+
 ### 🚀 Quick Links:
 - **Projects & Repos**: [Explore my work](https://github.com/VDKamani?tab=repositories)
 - **Tech Discussions**: Always open for knowledge sharing on cloud, DevOps, and automation.
