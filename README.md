@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Viral Kamani!
-**🌐 A DevOps Trainee & Cloud Enthusiast**
+**🌐 DevOps Engineer & Cloud Enthusiast**
 
 ---
 
