@@ -1,15 +1,9 @@
-# 👋 Hi, I'm Viral D. Kamani!
+# 👋 Hi, I'm Viral Kamani!
 **🌐 A DevOps Trainee & Cloud Enthusiast**
 
 ---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-</p>
-
----
-
-### 💼 **Current Role**: DevOps Trainee at **Yudiz Solutions**, India
+### 💼 **Current Role**: DevOps Engineer at **Yudiz Solutions**, India
 
 ### 🌱 **Learning Focus**: 
 Cloud technologies, DevOps best practices, and automation tools.
@@ -69,6 +63,12 @@ Cloud technologies, DevOps best practices, and automation tools.
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=VDKamani&theme=radical)
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+</p>
 
 ---
 
