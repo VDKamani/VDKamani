@@ -54,26 +54,26 @@ Cloud technologies, DevOps best practices, and automation tools.
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VDKamani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDKamani&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDKamani&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viralkamani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkamani&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viralkamani&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=VDKamani&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=viralkamani&theme=radical)
 
 ---
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=VDKamani&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=viralkamani&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 Quick Links:
-- **Projects & Repos**: [Explore my work](https://github.com/VDKamani?tab=repositories)
+- **Projects & Repos**: [Explore my work](https://github.com/viralkamani?tab=repositories)
 - **Tech Discussions**: Always open for knowledge sharing on cloud, DevOps, and automation.
 
 ⚡ **Fun Fact**: I believe continuous learning is the key to mastering the ever-evolving tech landscape.
